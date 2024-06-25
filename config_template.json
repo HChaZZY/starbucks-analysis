@@ -1,0 +1,5 @@
+{
+    "input_file": "输入文件(csv)位置",
+    "output_file": "清洗数据输出(csv)位置",
+    "cn_output_file": "我国星巴克店铺分布输出(csv)位置"
+}
